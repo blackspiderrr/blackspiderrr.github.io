@@ -9,7 +9,7 @@ main:
     url: /Research/ 
 
   - title: "Course Projects"
-    url: /_Projects/ 
+    url: /Projects/ 
     
   - title: "Publications"
     url: /publications/   
