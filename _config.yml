@@ -215,18 +215,18 @@ collections:
   # teaching:
   #   output: true
   #   permalink: /:collection/:path/
-  reseach experience:
-    output: true
-    permalink: /Research/
-  course projects:
-    output: true
-    permalink: /Projects/
-  publications:
+  Reseach:
     output: true
     permalink: /:collection/:path/
-  interests:
+  Projects:
     output: true
-    permalink: /Interests/
+    permalink: /:collection/:path/
+  Publications:
+    output: true
+    permalink: /:collection/:path/
+  Interests:
+    output: true
+    permalink: /:collection/:path/
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
@@ -248,19 +248,28 @@ defaults:
   #     comments: true
   #     share: true
   #     related: true
-  _research experience
+  _Research
   - scope:
        path: ""
-       type: research experience
+       type: research
      values:
        layout: single
        author_profile: true
        share: true
        comments: true
-  _course projects
+  _Projects
   - scope:
        path: ""
-       type: publications
+       type: projects
+     values:
+       layout: single
+       author_profile: true
+       share: true
+       comments: true
+  _Interests
+  - scope:
+       path: ""
+       type: interests
      values:
        layout: single
        author_profile: true
