@@ -215,16 +215,16 @@ collections:
   # teaching:
   #   output: true
   #   permalink: /:collection/:path/
-  Reseach:
+  reseach:
     output: true
     permalink: /:collection/:path/
-  Projects:
+  projects:
     output: true
     permalink: /:collection/:path/
-  Publications:
+  publications:
     output: true
     permalink: /:collection/:path/
-  Interests:
+  interests:
     output: true
     permalink: /:collection/:path/
   # portfolio:
