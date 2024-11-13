@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: "Projects"
-excerpt: "Embedded System Development of Handwritten Digit Recognition based on STM32H747I-DISCO <br/><img src='/images/project2-demo.png'>"
-permalink: /projects/
+title: "Embedded System Development of Handwritten Digit Recognition based on STM32H747I-DISCO"
+excerpt: "a course project of Embedded System <br/><img src='/images/project2-demo.png'>"
+collection: projects
 author_profile: true
 ---
  
