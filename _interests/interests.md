@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "interests"
-excerpt: "interests"
-autor_profile: true
+title: "Interests"
+excerpt: "A brief overview of my interests."
+author_profile: true
 ---
 
 **I like MUSIC🎵.**   
