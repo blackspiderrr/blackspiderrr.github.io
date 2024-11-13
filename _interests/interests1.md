@@ -1,5 +1,4 @@
 ---
-permalink: ""
 title: "I like MUSIC🎵."
 excerpt: "
 I started learning piano🎹 in elementary school, which shaped part of my aesthetic.   
