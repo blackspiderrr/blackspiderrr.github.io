@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Projects"
+excerpt: "Embedded System Development of Handwritten Digit Recognition based on STM32H747I-DISCO <br/><img src='/images/EmbeddedSystemDemo_0.gif'>"
 permalink: /projects/
 author_profile: true
 ---
@@ -17,3 +18,4 @@ author_profile: true
     </div>
   </div>
 </div>
+
