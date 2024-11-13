@@ -8,8 +8,8 @@ author_profile: true
 This is a course project of System and Control, about making an electronic mouse that can find a path and move along it.
 
 First, weld the corresponding resistors, capacitors and other components to make it take shape. Then, complete the wheels and motors.
-![image](/images/project3-1.png)
-![image](/images/project3-2.png)
+![image](/images/project3-1.jpg)
+![image](/images/project3-2.jpg)
 
 The electronic mouse is finished!
-![image](/images/project3-3.png)
+![image](/images/project3-3.jpg)
