@@ -215,7 +215,7 @@ collections:
   # teaching:
   #   output: true
   #   permalink: /:collection/:path/
-  reseach:
+  research:
     output: true
     permalink: /:collection/:path/
   projects:
