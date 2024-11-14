@@ -10,11 +10,12 @@ I am fortunate to be advised by [Prof. Rui FAN](https://www.ruirangerfan.com/) f
 The following figure shows some demos.
 ![demo](/images/mywork-demo.png)
 
-I participated in a survey on road crack detection as the second author, which has been submitted to IEEE Transactions on Intelligent Vehicles (TIV). [Link](https://blackspiderrr.github.io//publications/)   
-
-I was responsible for the following parts: 
+I participated in a survey on road crack detection as the second author, which has been submitted to IEEE Transactions on Intelligent Vehicles (TIV) [Link](https://blackspiderrr.github.io//publications/) . I was responsible for the following parts: 
 - Dataset collection, selection and reproduction.
 - Transformer-based model reproduction and result analysis.
 - Drawing pictures in the paper.
 - Participating in the writing of the paper, including traditional detection methods, transformer-based segmentation methods, data fusion methods, etc.
 
+In addition, I was involved in the production of a road surface dataset, which is to be released.
+
+Currently, I am working on the development of a crack detection model.
