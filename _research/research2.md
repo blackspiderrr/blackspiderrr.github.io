@@ -1,7 +1,7 @@
 ---
 title: "AeroEye"
 excerpt: "111 <br/><img src='/images/project1-demo.png'>"
-collection: projects
+collection: research
 author_profile: true
 ---
  
