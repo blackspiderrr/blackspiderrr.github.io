@@ -12,6 +12,4 @@ I like to listen to a lot of music🎧, and my favorite genres include Britpop, 
 **I like TRAVELLING🚶‍♂️.**  
 I hope to travel around the world in the future and record what I see with my camera📷.
 
-<center>
-  <img src="/images/Xian.jpg" alt="image" width="500" />
-</center>
+<img src="/images/Xian.jpg" alt="image" width="500" />
