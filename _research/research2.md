@@ -16,11 +16,14 @@ As the first author of a student, I have published **two invention patents**, wh
 Our team won the following awards:
 - **Grand Prize** of [Huawei ICT Competition 2023-2024 Global Final](https://www.huawei.com/minisite/ict-competition-2023-2024-global/cn/index.html) (four teams from around the world)
 - **Gold Award** of Shanghai, China International College Students' Innovation Competition 2024
+- **Innovation Project Award** of The 3rd "Strive Cup" Shanghai Youth Skills Competition Digital Economy Youth Innovation Competition 
 - **First Prize** in East China Division of HUAWEI CUP National Undergraduate IOT Design Contest 2023
 - ...
+
+<img src="/images/strivecup.jpg" alt="image" width="600">
 
 Additionally, we are very honored to participate in the interview and recording of **CGTN(China Global Television Network)'s annual documentary series "China: Race to the Future！"** [link](https://www.youtube.com/watch?v=TeZiUj0XUsY&list=PLCXHy2jM9PoBzP-n_yEFPKIWz9wbDmIAA&index=3).  
 
 <center>
-  <img src="/images/AeroEye-interview.png" alt="image" width="800"/>
+  <img src="/images/AeroEye-interview.png" alt="image" width="600"/>
 </center>
