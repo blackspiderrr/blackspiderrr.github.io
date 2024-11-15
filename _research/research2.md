@@ -24,7 +24,7 @@ Our team won the following awards:
   <img src="/images/strivecup.jpg" alt="image" width="500">
 </center>
 
-Additionally, we are very honored to participate in the interview and recording of **CGTN(China Global Television Network)'s annual documentary series "China: Race to the Future！"** [link](https://www.youtube.com/watch?v=TeZiUj0XUsY&list=PLCXHy2jM9PoBzP-n_yEFPKIWz9wbDmIAA&index=3).  
+Additionally, we are very honored to participate in the interview and recording of **China Global Television Network(CGTN)'s annual documentary series "[China: Race to the Future！](https://www.youtube.com/watch?v=TeZiUj0XUsY&list=PLCXHy2jM9PoBzP-n_yEFPKIWz9wbDmIAA&index=3)"**.  
 
 <center>
   <img src="/images/AeroEye-interview.png" alt="image" width="500"/>
