@@ -5,7 +5,7 @@ collection: research
 author_profile: true
 ---
  
-I was selected for the [QiDi program](https://news.tongji.edu.cn/info/1002/82199.htm) at Tongji University and served as a key member on the project under the guidance of [Prof. Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm) . Our project was rated as a national innovation project under the China National University Student Innovation & Entrepreneurship Development Program. I was primarily responsible for robot perception and partial system development of the robot.
+I was selected for the [QiDi program](https://news.tongji.edu.cn/info/1002/82199.htm) at Tongji University and served as a key member on the project under the guidance of [Prof. Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm) . Our main goal is to **design and build a robot system that can move faster and more flexibly and enter smaller spaces to detect damage**. Our project was rated as a national innovation project under the China National University Student Innovation & Entrepreneurship Development Program. I was primarily responsible for robot perception and partial system development of the robot.
 
 ![demo](/images/AeroEye-demo.png)
  
