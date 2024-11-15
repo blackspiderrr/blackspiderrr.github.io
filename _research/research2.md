@@ -5,7 +5,7 @@ collection: research
 author_profile: true
 ---
  
-I was selected for the [QiDi program](https://news.tongji.edu.cn/info/1002/82199.htm) at Tongji University and served as a key member on the project under the guidance of [Prof. Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm) . Our main goal is to **design and build a robot system that can move faster and more flexibly and enter smaller spaces to detect damage**. Our project was rated as a national innovation project under the China National University Student Innovation & Entrepreneurship Development Program. I was primarily responsible for robot perception and partial system development of the robot.
+I was selected for the [QiDi program](https://news.tongji.edu.cn/info/1002/82199.htm) at Tongji University and served as a key member on the project under the guidance of [Prof. Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm) . Our main goal is to **design and build a robot system that can move faster and more flexibly and enter smaller spaces to detect damage**. Our project was under the China National University Student Innovation & Entrepreneurship Development Program. I was primarily responsible for robot perception and partial system development of the robot.
 
 ![demo](/images/AeroEye-demo.png)
  
@@ -18,7 +18,7 @@ Our team won the following awards:
 - **Gold Award** of Shanghai, China International College Students' Innovation Competition 2024
 - **Innovation Project Award** of The 3rd "Strive Cup" Shanghai Youth Skills Competition Digital Economy Youth Innovation Competition 
 - **First Prize** in East China Division of HUAWEI CUP National Undergraduate IOT Design Contest 2023
-- ...
+- **First Prize** of the 9th Tongji University College Student Innovation and Entrepreneurship Academic Forum
 
 <center>
   <img src="/images/strivecup.jpg" alt="image" width="500">
