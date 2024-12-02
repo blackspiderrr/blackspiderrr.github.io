@@ -1,6 +1,6 @@
 ---
 title: "Tracking E-Mouse"
-excerpt: "a course project of System and Control, made an electronic mouse that can find a path and move along it <br/><img src='/images/project3-demo.png'>"
+excerpt: "A course project of System and Control, made an electronic mouse that can find a path and move along it <br/><img src='/images/project3-demo.png'>"
 collection: projects
 author_profile: true
 ---
