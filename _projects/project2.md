@@ -1,6 +1,6 @@
 ---
 title: "Handwritten Digit Recognition Development"
-excerpt: "a course project of Embedded System, based on STM32H747I-DISCO <br/><img src='/images/project2-demo.png'>"
+excerpt: "A course project of Embedded System, based on STM32H747I-DISCO <br/><img src='/images/project2-demo.png'>"
 collection: projects
 author_profile: true
 ---
