@@ -2,7 +2,7 @@
 layout: post
 title:  "GINA: Wireless sensor platform"
 date:   2010-06-22 18:08:39 +00:00
-image: /images/tracking_car.gif
+image: /images/digit_recognition.gif
 categories: UC
 course: " Berkeley"
 author: "Leo Keselman"
