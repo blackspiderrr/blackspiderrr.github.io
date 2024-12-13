@@ -2,7 +2,7 @@
 layout: post
 title:  "Handwritten Digit Recognition"
 date:   2024-07-01
-image: /images/digit.gif
+image: /images/digit_recognition.gif
 categories: course project
 course: of 'Embedded System'
 author: "Zhengfei SONG"
