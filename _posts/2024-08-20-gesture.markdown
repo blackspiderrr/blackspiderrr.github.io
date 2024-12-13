@@ -5,7 +5,7 @@ startdate: 07/2024
 enddate: 08/2024
 image: /images/gesture_recognition.png
 categories: Course 
-course: Project of 'Comprehensive Design and Practice A'
+course: Project of 'Comprehensive Design and Practice A' @ Tongji
 author: "Zhengfei SONG"
 code: https://github.com/blackspiderrr/Gesture_Recognition
 report: pdfs/gesture_recognition_report.pdf
