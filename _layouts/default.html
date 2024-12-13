@@ -151,6 +151,9 @@
               {{ post.startdate | date: "%m/%Y" }} - {{ post.enddate | date: "%m/%Y"}}
 
               <br>
+              {% if post.report %}
+              <a href="{{post.report}}">report</a> /
+              {% endif %}
               {% if post.website %}
               <a href="{{post.website}}">website</a> /
               {% endif %}
