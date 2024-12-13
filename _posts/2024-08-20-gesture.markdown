@@ -7,7 +7,7 @@ categories: Course Project
 course: of 'Comprehensive Design and Practice A'
 author: "Zhengfei SONG"
 code: https://github.com/blackspiderrr/Gesture_Recognition
-report: https://github.com/blackspiderrr/Gesture_Recognition/blob/master/Report.pdf
+report: pdfs/gesture_recognition_report.pdf
 ---
 
 This course design covers circuit schematic design, PCB layout, K-Means algorithm clustering, embedded language development, etc., so that the gesture recognizer can sense the rock✊, scissors✌, and paper✋ gestures placed close to the PCB, and display the judgment results in the form of LED lights.
