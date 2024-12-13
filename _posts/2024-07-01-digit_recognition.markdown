@@ -4,7 +4,7 @@ title:  "Handwritten Digit Recognition"
 date:   2024-07-01
 image: /images/digit.gif
 categories: course project
-course: "Embedded System"
+course: of 'Embedded System'
 author: "Zhengfei SONG"
 code: https://github.com/blackspiderrr/Embedded_Development_of_Handwritten_Digit_Recognition
 report: https://github.com/blackspiderrr/Embedded_Development_of_Handwritten_Digit_Recognition/blob/master/Report.pdf
