@@ -69,7 +69,6 @@
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Research</h2> 
-              <p>(* indicates equal contribution)</p>
             </td>
           </tr>
         </table>
@@ -151,9 +150,6 @@
               {{ post.startdate | date: "%m/%Y" }} - {{ post.enddate | date: "%m/%Y"}}
 
               <br>
-              {% if post.report %}
-              <a href="{{post.report}}">report</a> /
-              {% endif %}
               {% if post.website %}
               <a href="{{post.website}}">website</a> /
               {% endif %}
@@ -183,6 +179,9 @@
               {% endif %}
               {% if post.slides %}
               <a href="{{post.slides}}">slides</a> /
+              {% endif %}
+              {% if post.report %}
+              <a href="{{post.report}}">report</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
