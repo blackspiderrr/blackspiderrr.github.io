@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Gesture Recognition based on Infrared Sensors
+date:   2024-08-20
+image: /images/gina-power.png
+categories: Course Project
+course: of 'Comprehensive Design and Practice A'
+author: "Zhengfei SONG"
+---
+
+This course design covers circuit schematic design, PCB layout, K-Means algorithm clustering, embedded language development, etc., so that the gesture recognizer can sense the rock✊, scissors✌, and paper✋ gestures placed close to the PCB, and display the judgment results in the form of LED lights.
