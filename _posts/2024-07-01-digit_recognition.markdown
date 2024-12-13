@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Handwritten Digit Recognition"
-date:   2024-05
+startdate: 05/2024
+enddate: 06/2024
 image: /images/digit_recognition.gif
 categories: Course 
 course: Project of 'Embedded System'
