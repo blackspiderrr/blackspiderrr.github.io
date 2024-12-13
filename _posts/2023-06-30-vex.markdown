@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Vex Robot"
+startdate: 05/2023
+enddate: 06/2023
+image: /images/vex.gif
+categories: 2023 
+course: Spring VEX Robot Freshman Competition @ Tongji
+---
+I participated in the construction work. We finally won the second prize.
