@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Gesture Recognition based on Infrared Sensors
-startdate: 05/2024
-enddate: 06/2024
+startdate: 07/2024
+enddate: 08/2024
 image: /images/gesture_recognition.png
 categories: Course 
 course: Project of 'Comprehensive Design and Practice A'
