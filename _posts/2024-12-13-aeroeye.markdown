@@ -8,7 +8,7 @@ categories: China
 course: National University Student Innovation & Entrepreneurship Development Project @ Tongji
 author: "Zhengfei Song"
 website: https://blackspiderrr.github.io/aero/
-patent1: /pdfs/patent1.pdf
+patent: /pdfs/patent1.pdf
 patent2: /pdfs/patent2.pdf
 ---
 
