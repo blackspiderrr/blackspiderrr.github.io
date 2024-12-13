@@ -3,7 +3,7 @@ layout: post
 title:  "Deep Learning Labs"
 startdate: 09/2024
 enddate: 11/2024
-image: /images/EIE4122.jpg
+image: /images/EIE4122LAB.png
 categories: Course
 course: Labs of EIE4122 Deep Learning and Neural Networks @ PolyU
 ---
