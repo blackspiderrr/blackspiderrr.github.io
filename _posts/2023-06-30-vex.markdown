@@ -4,7 +4,7 @@ title:  "Vex Robot"
 startdate: 05/2023
 enddate: 06/2023
 image: /images/vex.gif
-categories: 2023 
-course: Spring VEX Robot Freshman Competition @ Tongji
+categories: VEX  
+course: Robot Freshman Competition of 2023 Spring @ Tongji
 ---
 I participated in the construction work. We finally won the second prize.
