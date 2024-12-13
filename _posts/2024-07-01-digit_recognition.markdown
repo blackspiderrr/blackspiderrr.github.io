@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Handwritten Digit Recognition"
-date:   2024-07-01
+date:   "2024.06-07"
 image: /images/digit_recognition.gif
-categories: course project
-course: of 'Embedded System'
+categories: Course 
+course: Project of 'Embedded System'
 author: "Zhengfei SONG"
 code: https://github.com/blackspiderrr/Embedded_Development_of_Handwritten_Digit_Recognition
 report: pdfs/digit_recognition_report.pdf
