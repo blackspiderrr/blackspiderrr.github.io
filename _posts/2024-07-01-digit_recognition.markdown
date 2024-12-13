@@ -5,7 +5,7 @@ startdate: 05/2024
 enddate: 06/2024
 image: /images/digit_recognition.gif
 categories: Course 
-course: Project of 'Embedded System'
+course: Project of 'Embedded System' @ Tongji
 author: "Zhengfei SONG"
 code: https://github.com/blackspiderrr/Embedded_Development_of_Handwritten_Digit_Recognition
 report: pdfs/digit_recognition_report.pdf
