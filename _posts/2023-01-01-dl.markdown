@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Deep Learning Labs"
+startdate: 09/2024
+enddate: 11/2024
+image: /images/EIE4122.jpg
+categories: Course
+course: Labs of EIE4122 Deep Learning and Neural Networks @ PolyU
+---
+[lab1](/pdfs/24011149X_LAB1.pdf): CNNs for Handwritten Digit Classification  
+[lab2](/pdfs/24011149X_LAB2.pdf): RNN and LSTM for Text Analysis  
+[lab3](/pdfs/24011149X_LAB3.pdf): Gradient Vanishing and ResNet  
