@@ -2,7 +2,7 @@
 layout: post
 title:  Gesture Recognition based on Infrared Sensors
 date:   2024-08-20
-image: /images/gina-power.png
+image: /images/gesture_recognition.jpg
 categories: Course Project
 course: of 'Comprehensive Design and Practice A'
 author: "Zhengfei SONG"
