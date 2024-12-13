@@ -4,7 +4,7 @@ title:  "Deep Learning-based Road Crack Detection for Intelligent Inspection Veh
 date:   2023-08-28 22:21:59 +00:00
 image: /images/road5.png
 categories: research
-authors: "Nachuan Ma,<strong>Zhengfei Song</strong>, Qiang Hu, Chuang-Wei Liu, Rui Fan and Lihua Xie"
-venue: "IEEE Transactions on Intelligent Vehicles(under review)"
+authors: "Nachuan Ma, <strong>Zhengfei Song</strong>, Qiang Hu, Chuang-Wei Liu, Rui Fan and Lihua Xie"
+venue: "IEEE Transactions on Intelligent Vehicles (under review)"
 ---
 We thoroughly reviews the SoTA computer vision-based techniques for crack detection, create a dataset and coduct comprehensive experments to evaluate the performance of public SoTA semantic segmentation-based algorithms.
