@@ -7,8 +7,9 @@ image: /images/aeroeye.gif
 categories: China 
 course: National University Student Innovation & Entrepreneurship Development Project @ Tongji
 author: "Zhengfei Song"
-website: 
+website: https://blackspiderrr.github.io/aero/
 patent1: /pdfs/patent1.pdf
 patent2: /pdfs/patent2.pdf
 ---
 
+We aimed to build a snake-like robot system for aircraft engine damage detection. I was responsible for robot perception and used YOLOv5 to detect cracks based on a small dataset of metal cracks. We have won several awards including the Grand Prize of 2023-2024 Huawei ICT Competition Global Final.   
