@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "AeroEye: Snake-like Robot System for Aircraft Engine Damage Detection"
-startdate: 02/2023
-enddate: 03/2024
 image: /images/aeroeye.gif
 categories: research
 course: China National University Student Innovation & Entrepreneurship Development Project @ Tongji
