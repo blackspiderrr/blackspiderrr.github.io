@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Efficient Algorithm for Crack Detection Combining High Accuracy and Speed"
+title:  "An Efficient Algorithm for Crack Detection with High Accuracy and Speed"
 date:   2023-08-28 22:21:59 +00:00
 image: /images/crack.png
 categories: research
