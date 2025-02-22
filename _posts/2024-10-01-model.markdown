@@ -5,4 +5,4 @@ date:   2023-08-28 22:21:59 +00:00
 image: /images/crack.png
 categories: research
 ---
-In Progress...
+We developed a new algorithm with both higher accuracy and improved real-time performance. I proposed several modules such as the dynamic boundary extraction module, which enables the model to maintain stable performance when focusing on boundary features, regardless of the crack's thickness.
