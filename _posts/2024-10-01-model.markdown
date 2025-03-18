@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "An Efficient Algorithm for Crack Detection with High Accuracy and Speed"
+title:  "Self-Derived Multi-Modal Knowledge Distillation for Real-time Road Crack Detection"
 date:   2023-08-28 22:21:59 +00:00
 image: /images/crack.png
 categories: research
+authors: "Nachuan Ma*, Qiang Hu*, <strong>Zhengfei Song*</strong>, Rui Fan and Lihua Xie"
+venue: "Automation in Construction (under review)"
 ---
-We developed a new algorithm with both higher accuracy and improved real-time performance. I proposed several modules such as the dynamic boundary extraction module, which enables the model to maintain stable performance when focusing on boundary features, regardless of the crack's thickness.
+We proposed a novel lightweight network for real-time road crack detection, called LR-CrackNet. Comprehensive experimental results demonstrate that LR-CrackNet achieves state-of-the-art (SoTA) detection performance on public datasets and surpasses public algorithms in processing efficiency.
