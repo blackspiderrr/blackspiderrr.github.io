@@ -2,9 +2,10 @@
 layout: post
 title:  "Self-Derived Multi-Modal Knowledge Distillation for Real-time Road Crack Detection"
 date:   2023-08-28 22:21:59 +00:00
-image: /images/crack.png
+image: /images/crack.jpg
 categories: research
-authors: "Nachuan Ma*, Qiang Hu*, <strong>Zhengfei Song*</strong>, Rui Fan and Lihua Xie"
+authors: "Nachuan Ma*, Qiang Hu*, <strong>Zhengfei Song*</strong>, Sicen Guo, Rui Fan and Lihua Xie"
 venue: "Automation in Construction (under review)"
+venue: "*These authors contributed equally."
 ---
 We proposed a novel lightweight network for real-time road crack detection, called LR-CrackNet. Comprehensive experimental results demonstrate that LR-CrackNet achieves state-of-the-art (SoTA) detection performance on public datasets and surpasses public algorithms in processing efficiency.
